@@ -80,7 +80,7 @@ main {
 .hero-image {
     margin-top: 70px;
     height: 700px;
-    background-image: url(/resources/img/img-mission-background.jpeg);
+    background-image: url(resources/img/img-mission-background.jpeg);
     background-size: cover;
     display: flex;
     justify-content: center;
