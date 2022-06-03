@@ -80,7 +80,7 @@ main {
 .hero-image {
     margin-top: 70px;
     height: 700px;
-    background-image: url(../resources/img/img-mission-background.jpeg);
+    background-image: url(/resources/img/img-mission-background.jpeg);
     background-size: cover;
     display: flex;
     justify-content: center;
@@ -159,7 +159,7 @@ main {
 /* ----------- LOCATIONS ----------- */
 .locations {
     width: 90%;
-    background: linear-gradient( rgba(0, 0, 0, 0.5) 100%, rgba(0, 0, 0, 0.5)100%), url(../resources/img/img-locations-background.jpeg);
+    background: linear-gradient( rgba(0, 0, 0, 0.5) 100%, rgba(0, 0, 0, 0.5)100%), url(/resources/img/img-locations-background.jpeg);
     background-size: cover;
     padding: 60px 0; 
     margin: 60px auto;
